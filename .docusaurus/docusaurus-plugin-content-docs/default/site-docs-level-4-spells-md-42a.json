@@ -1,0 +1,14 @@
+{
+  "id": "level-4-spells",
+  "title": "Level 4 Spells",
+  "description": "* Casting Cost: Core Action +4SD, 6SD, 20ft movement + 4SD, or 60ft movement",
+  "source": "@site/docs/level-4-spells.md",
+  "sourceDirName": ".",
+  "slug": "/level-4-spells",
+  "permalink": "/docs/level-4-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

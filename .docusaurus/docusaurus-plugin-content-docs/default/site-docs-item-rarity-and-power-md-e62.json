@@ -1,0 +1,14 @@
+{
+  "id": "item-rarity-and-power",
+  "title": "Item Rarity & Power",
+  "description": "| Rarity     | Colloquiality | Found Where            | SD Pool         | Notes                         |",
+  "source": "@site/docs/item-rarity-and-power.md",
+  "sourceDirName": ".",
+  "slug": "/item-rarity-and-power",
+  "permalink": "/docs/item-rarity-and-power",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

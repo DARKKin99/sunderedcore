@@ -1,0 +1,14 @@
+{
+  "id": "crafting",
+  "title": "Crafting",
+  "description": "Crafting Overview",
+  "source": "@site/docs/crafting.md",
+  "sourceDirName": ".",
+  "slug": "/crafting",
+  "permalink": "/docs/crafting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

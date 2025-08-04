@@ -1,0 +1,14 @@
+{
+  "id": "spell-casting",
+  "title": "Spell Casting",
+  "description": "Anyone can learn and cast a spell using one of the spellcasting abilities: Influence, Knowledge, or Wisdom.",
+  "source": "@site/docs/spell-casting.md",
+  "sourceDirName": ".",
+  "slug": "/spell-casting",
+  "permalink": "/docs/spell-casting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

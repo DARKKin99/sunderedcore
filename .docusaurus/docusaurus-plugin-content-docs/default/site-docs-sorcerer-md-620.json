@@ -1,0 +1,14 @@
+{
+  "id": "sorcerer",
+  "title": "Sorcerer",
+  "description": "---",
+  "source": "@site/docs/sorcerer.md",
+  "sourceDirName": ".",
+  "slug": "/sorcerer",
+  "permalink": "/docs/sorcerer",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

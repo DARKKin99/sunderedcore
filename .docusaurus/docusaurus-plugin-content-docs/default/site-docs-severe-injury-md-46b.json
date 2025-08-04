@@ -1,0 +1,14 @@
+{
+  "id": "severe-injury",
+  "title": "Severe Injury (Cost: 15)",
+  "description": "- Broken Bone: Cannot use one limb; movement speed halved.",
+  "source": "@site/docs/severe-injury.md",
+  "sourceDirName": ".",
+  "slug": "/severe-injury",
+  "permalink": "/docs/severe-injury",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

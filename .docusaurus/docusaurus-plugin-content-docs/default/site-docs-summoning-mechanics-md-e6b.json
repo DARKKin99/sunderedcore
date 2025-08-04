@@ -1,0 +1,14 @@
+{
+  "id": "summoning-mechanics",
+  "title": "Summoning Mechanics",
+  "description": "- Follows spellcasting rules; must be learned at each spell summons rank.",
+  "source": "@site/docs/summoning-mechanics.md",
+  "sourceDirName": ".",
+  "slug": "/summoning-mechanics",
+  "permalink": "/docs/summoning-mechanics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

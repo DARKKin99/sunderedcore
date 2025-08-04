@@ -1,0 +1,14 @@
+{
+  "id": "summoner-replenishment",
+  "title": "Summoner Replenishment",
+  "description": "When you regain Source Dice through Replenishment, only the summoner regains Source Dice.",
+  "source": "@site/docs/summoner-replenishment.md",
+  "sourceDirName": ".",
+  "slug": "/summoner-replenishment",
+  "permalink": "/docs/summoner-replenishment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

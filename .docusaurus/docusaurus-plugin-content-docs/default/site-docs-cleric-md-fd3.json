@@ -1,0 +1,14 @@
+{
+  "id": "cleric",
+  "title": "Cleric",
+  "description": "Domain:",
+  "source": "@site/docs/cleric.md",
+  "sourceDirName": ".",
+  "slug": "/cleric",
+  "permalink": "/docs/cleric",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

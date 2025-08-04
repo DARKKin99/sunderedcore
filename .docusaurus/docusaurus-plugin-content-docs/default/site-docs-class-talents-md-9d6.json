@@ -1,0 +1,24 @@
+{
+  "id": "class-talents",
+  "title": "Class Talents",
+  "description": "- Start with 2 talents at level 1.",
+  "source": "@site/docs/class-talents.md",
+  "sourceDirName": ".",
+  "slug": "/class-talents",
+  "permalink": "/docs/class-talents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/class-talents.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Choosing a Class: Core Features",
+    "permalink": "/docs/choosing-a-class-core-features"
+  },
+  "next": {
+    "title": "Fighting Styles",
+    "permalink": "/docs/fighting-styles"
+  }
+}

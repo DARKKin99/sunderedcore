@@ -1,0 +1,14 @@
+{
+  "id": "reactions",
+  "title": "Reactions",
+  "description": "Counteraction",
+  "source": "@site/docs/reactions.md",
+  "sourceDirName": ".",
+  "slug": "/reactions",
+  "permalink": "/docs/reactions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

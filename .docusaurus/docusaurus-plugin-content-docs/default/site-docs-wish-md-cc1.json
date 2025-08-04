@@ -1,0 +1,14 @@
+{
+  "id": "wish",
+  "title": "Wish",
+  "description": "Wish is a spell apart. While other spells mold reality within its laws, Wish is the law by which reality was made. The consequences of such power are often far-reaching and unseen. To rewrite the world by which you exist is to rewrite some part of yourself.",
+  "source": "@site/docs/wish.md",
+  "sourceDirName": ".",
+  "slug": "/wish",
+  "permalink": "/docs/wish",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

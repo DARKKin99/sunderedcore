@@ -1,0 +1,14 @@
+{
+  "id": "minor-injury",
+  "title": "Minor Injury (Cost: 5)",
+  "description": "- Staggered: Target loses 10ft of movement next turn.",
+  "source": "@site/docs/minor-injury.md",
+  "sourceDirName": ".",
+  "slug": "/minor-injury",
+  "permalink": "/docs/minor-injury",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

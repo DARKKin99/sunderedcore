@@ -1,0 +1,14 @@
+{
+  "id": "targeting",
+  "title": "Targeting",
+  "description": "- To target a creature with an action, make a check against the target’s relevant ability score.",
+  "source": "@site/docs/targeting.md",
+  "sourceDirName": ".",
+  "slug": "/targeting",
+  "permalink": "/docs/targeting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "stress-&-strain",
+  "title": "Stress & Strain",
+  "description": "Powerful actions come with risks.",
+  "source": "@site/docs/stress-&-strain.md",
+  "sourceDirName": ".",
+  "slug": "/stress-&-strain",
+  "permalink": "/docs/stress-&-strain",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

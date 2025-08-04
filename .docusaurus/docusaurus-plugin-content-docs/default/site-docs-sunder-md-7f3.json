@@ -1,0 +1,14 @@
+{
+  "id": "sunder",
+  "title": "Sunder",
+  "description": "Sunder is a critical technique with its own table. Sunder does not need to be known to spend from your CDB to apply it.",
+  "source": "@site/docs/sunder.md",
+  "sourceDirName": ".",
+  "slug": "/sunder",
+  "permalink": "/docs/sunder",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

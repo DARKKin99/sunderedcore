@@ -1,0 +1,14 @@
+{
+  "id": "gods",
+  "title": "Gods",
+  "description": "Gods are beyond mythic: pure fonts or conduits of cosmic force.",
+  "source": "@site/docs/gods.md",
+  "sourceDirName": ".",
+  "slug": "/gods",
+  "permalink": "/docs/gods",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pet-movement-conversion-table",
+  "title": "Movement Conversion Table (Pets)",
+  "description": "| Action               | Pet Movement Cost |",
+  "source": "@site/docs/pet-movement-conversion-table.md",
+  "sourceDirName": ".",
+  "slug": "/pet-movement-conversion-table",
+  "permalink": "/docs/pet-movement-conversion-table",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

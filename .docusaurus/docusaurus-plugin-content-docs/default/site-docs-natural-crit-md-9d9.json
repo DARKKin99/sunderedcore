@@ -1,0 +1,14 @@
+{
+  "id": "natural-crit",
+  "title": "Natural Crit",
+  "description": "A Natural Crit occurs when a player rolls a natural 20 on a d20.",
+  "source": "@site/docs/natural-crit.md",
+  "sourceDirName": ".",
+  "slug": "/natural-crit",
+  "permalink": "/docs/natural-crit",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "id": "combat",
+  "title": "Core Rules: Movement & Combat",
+  "description": "Movement",
+  "source": "@site/docs/combat.md",
+  "sourceDirName": ".",
+  "slug": "/combat",
+  "permalink": "/docs/combat",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Core Rules: Ability Checks, Proficiency, and Targeting",
+    "permalink": "/docs/ability-checks"
+  },
+  "next": {
+    "title": "Core Rules: Magic and Techniques",
+    "permalink": "/docs/techniques"
+  }
+}

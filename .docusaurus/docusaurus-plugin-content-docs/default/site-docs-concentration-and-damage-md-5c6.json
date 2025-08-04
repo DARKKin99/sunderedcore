@@ -1,0 +1,14 @@
+{
+  "id": "concentration-and-damage",
+  "title": "Concentration & Damage",
+  "description": "If a creature takes damage while concentrating:",
+  "source": "@site/docs/concentration-and-damage.md",
+  "sourceDirName": ".",
+  "slug": "/concentration-and-damage",
+  "permalink": "/docs/concentration-and-damage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

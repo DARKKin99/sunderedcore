@@ -1,0 +1,14 @@
+{
+  "id": "using-item-source",
+  "title": "Using Item Source",
+  "description": "- Item Source may be used to fuel any player ability, spell, or technique as if it were part of the player’s own SD.",
+  "source": "@site/docs/using-item-source.md",
+  "sourceDirName": ".",
+  "slug": "/using-item-source",
+  "permalink": "/docs/using-item-source",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

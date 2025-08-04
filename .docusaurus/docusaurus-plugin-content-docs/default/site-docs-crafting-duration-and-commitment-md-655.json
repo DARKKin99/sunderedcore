@@ -1,0 +1,14 @@
+{
+  "id": "crafting-duration-and-commitment",
+  "title": "Crafting Duration & Commitment",
+  "description": "- To craft an item, a player must commit SD equal to the item’s final Source pool.",
+  "source": "@site/docs/crafting-duration-and-commitment.md",
+  "sourceDirName": ".",
+  "slug": "/crafting-duration-and-commitment",
+  "permalink": "/docs/crafting-duration-and-commitment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

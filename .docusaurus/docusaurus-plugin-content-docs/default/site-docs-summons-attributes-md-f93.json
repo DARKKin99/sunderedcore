@@ -1,0 +1,14 @@
+{
+  "id": "summons-attributes",
+  "title": "Summons Attributes",
+  "description": "- 50 ft. of movement to spend on actions (attacks, movement, spells)",
+  "source": "@site/docs/summons-attributes.md",
+  "sourceDirName": ".",
+  "slug": "/summons-attributes",
+  "permalink": "/docs/summons-attributes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

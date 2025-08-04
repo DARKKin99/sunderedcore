@@ -1,0 +1,14 @@
+{
+  "id": "mythic-loadout-rules",
+  "title": "Mythic Loadout Rules",
+  "description": "- Your magic item SD total must not exceed your base SD, including your mythic expansion.",
+  "source": "@site/docs/mythic-loadout-rules.md",
+  "sourceDirName": ".",
+  "slug": "/mythic-loadout-rules",
+  "permalink": "/docs/mythic-loadout-rules",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

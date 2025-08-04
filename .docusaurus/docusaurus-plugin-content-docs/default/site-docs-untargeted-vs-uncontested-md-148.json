@@ -1,0 +1,14 @@
+{
+  "id": "untargeted-vs-uncontested",
+  "title": "Untargeted vs. Uncontested",
+  "description": "- Untargeted: World interaction—climbing, crafting, knowledge, healing.",
+  "source": "@site/docs/untargeted-vs-uncontested.md",
+  "sourceDirName": ".",
+  "slug": "/untargeted-vs-uncontested",
+  "permalink": "/docs/untargeted-vs-uncontested",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

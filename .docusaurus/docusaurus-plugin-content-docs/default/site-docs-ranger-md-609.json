@@ -1,0 +1,14 @@
+{
+  "id": "ranger",
+  "title": "Ranger",
+  "description": "Ranger’s gain access to a Fighting Style at level one.",
+  "source": "@site/docs/ranger.md",
+  "sourceDirName": ".",
+  "slug": "/ranger",
+  "permalink": "/docs/ranger",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

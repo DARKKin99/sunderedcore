@@ -1,0 +1,14 @@
+{
+  "id": "summons-hit-points",
+  "title": "Hit Points (Summoned Creatures)",
+  "description": "- A summoned creature’s Hit Points (HP) = SD committed × summoning die size",
+  "source": "@site/docs/summons-hit-points.md",
+  "sourceDirName": ".",
+  "slug": "/summons-hit-points",
+  "permalink": "/docs/summons-hit-points",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

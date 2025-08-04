@@ -1,0 +1,14 @@
+{
+  "id": "surprise",
+  "title": "Surprise",
+  "description": "If a creature or group is attempting to ambush or otherwise act unnoticed:",
+  "source": "@site/docs/surprise.md",
+  "sourceDirName": ".",
+  "slug": "/surprise",
+  "permalink": "/docs/surprise",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "spell-targeting",
+  "title": "Spell Targeting",
+  "description": "Spell targeting follows the Stressed/Strained, Contested/Uncontested, and Targeted/Untargeted rules.",
+  "source": "@site/docs/spell-targeting.md",
+  "sourceDirName": ".",
+  "slug": "/spell-targeting",
+  "permalink": "/docs/spell-targeting",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "turns",
+  "title": "Turns",
+  "description": "- On your turn, you may spend Source Dice up to your proficiency bonus, and all your movement.",
+  "source": "@site/docs/turns.md",
+  "sourceDirName": ".",
+  "slug": "/turns",
+  "permalink": "/docs/turns",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

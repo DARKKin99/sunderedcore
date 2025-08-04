@@ -1,0 +1,14 @@
+{
+  "id": "level-2-spells",
+  "title": "Level 2 Spells",
+  "description": "* Casting Cost: Core Action +2SD, 4SD, 20ft movement + 2SD, or 40ft movement",
+  "source": "@site/docs/level-2-spells.md",
+  "sourceDirName": ".",
+  "slug": "/level-2-spells",
+  "permalink": "/docs/level-2-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

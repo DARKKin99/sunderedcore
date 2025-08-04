@@ -1,0 +1,23 @@
+{
+  "id": "welcome",
+  "title": "Welcome to Sundered Systems",
+  "description": "Sundered isn't about limits—it's about possibilities.",
+  "source": "@site/docs/welcome.md",
+  "sourceDirName": ".",
+  "slug": "/welcome",
+  "permalink": "/docs/welcome",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "welcome",
+    "title": "Welcome to Sundered Systems",
+    "sidebar_label": "Welcome"
+  },
+  "sidebar": "sidebar",
+  "next": {
+    "title": "How to Play Sundered",
+    "permalink": "/docs/quickstart"
+  }
+}

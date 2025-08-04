@@ -1,0 +1,14 @@
+{
+  "id": "countering-spell-damage",
+  "title": "Countering Spell Damage",
+  "description": "To counter incoming spell damage:",
+  "source": "@site/docs/countering-spell-damage.md",
+  "sourceDirName": ".",
+  "slug": "/countering-spell-damage",
+  "permalink": "/docs/countering-spell-damage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

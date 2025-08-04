@@ -1,0 +1,14 @@
+{
+  "id": "fighter",
+  "title": "Fighter",
+  "description": "Fighting Style",
+  "source": "@site/docs/fighter.md",
+  "sourceDirName": ".",
+  "slug": "/fighter",
+  "permalink": "/docs/fighter",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

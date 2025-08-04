@@ -1,0 +1,23 @@
+{
+  "id": "SCL",
+  "title": "Sundered Creator License (SCL) v1.1",
+  "description": "Effective Date: [07.30.2025]",
+  "source": "@site/docs/SCL.md",
+  "sourceDirName": ".",
+  "slug": "/SCL",
+  "permalink": "/docs/SCL",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "SCL",
+    "title": "Sundered Creator License (SCL) v1.1",
+    "sidebar_label": "Creator License"
+  },
+  "sidebar": "licensingSidebar",
+  "next": {
+    "title": "original-content",
+    "permalink": "/docs/original-content"
+  }
+}

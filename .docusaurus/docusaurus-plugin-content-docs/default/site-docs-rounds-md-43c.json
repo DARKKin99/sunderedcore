@@ -1,0 +1,14 @@
+{
+  "id": "rounds",
+  "title": "Rounds",
+  "description": "- Combat is divided into rounds: each creature acts or passes.",
+  "source": "@site/docs/rounds.md",
+  "sourceDirName": ".",
+  "slug": "/rounds",
+  "permalink": "/docs/rounds",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

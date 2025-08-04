@@ -1,0 +1,14 @@
+{
+  "id": "weapon-requirements",
+  "title": "Weapon Requirements",
+  "description": "| Weapon Type     | Min Strength | Min Agility |",
+  "source": "@site/docs/weapon-requirements.md",
+  "sourceDirName": ".",
+  "slug": "/weapon-requirements",
+  "permalink": "/docs/weapon-requirements",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

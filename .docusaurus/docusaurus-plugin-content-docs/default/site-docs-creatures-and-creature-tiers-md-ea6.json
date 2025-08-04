@@ -1,0 +1,23 @@
+{
+  "id": "creatures-and-creature-tiers",
+  "title": "Creatures & Creature Tiers",
+  "description": "Creature Source",
+  "source": "@site/docs/creatures-and-creature-tiers.md",
+  "sourceDirName": ".",
+  "slug": "/creatures-and-creature-tiers",
+  "permalink": "/docs/creatures-and-creature-tiers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Size Limits (Familiars, Pets, Summons)",
+    "permalink": "/docs/size-limits-for-familiars-pets-and-summons"
+  },
+  "next": {
+    "title": "Momentum & Renown",
+    "permalink": "/docs/momentum"
+  }
+}

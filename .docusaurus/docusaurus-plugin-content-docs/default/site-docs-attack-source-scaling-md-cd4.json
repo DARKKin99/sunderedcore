@@ -1,0 +1,14 @@
+{
+  "id": "attack-source-scaling",
+  "title": "Source Scaling",
+  "description": "- After paying the base cost to attack, you may spend extra SD (up to proficiency) to:",
+  "source": "@site/docs/attack-source-scaling.md",
+  "sourceDirName": ".",
+  "slug": "/attack-source-scaling",
+  "permalink": "/docs/attack-source-scaling",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

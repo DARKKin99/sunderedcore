@@ -1,0 +1,14 @@
+{
+  "id": "choosing-disciplines",
+  "title": "Choosing Disciplines",
+  "description": "- Each ability covers multiple disciplines.",
+  "source": "@site/docs/choosing-disciplines.md",
+  "sourceDirName": ".",
+  "slug": "/choosing-disciplines",
+  "permalink": "/docs/choosing-disciplines",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

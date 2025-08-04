@@ -1,0 +1,14 @@
+{
+  "id": "level-6-spells",
+  "title": "Level 6 Spells",
+  "description": "* Casting Cost: Core Action +6SD, 8SD, 20ft movement + 6SD, or 80ft movement",
+  "source": "@site/docs/level-6-spells.md",
+  "sourceDirName": ".",
+  "slug": "/level-6-spells",
+  "permalink": "/docs/level-6-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

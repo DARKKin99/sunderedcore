@@ -1,0 +1,14 @@
+{
+  "id": "moderate-injury",
+  "title": "Moderate Injury (Cost: 10)",
+  "description": "- Damaged Limb: –2 to Strength or Agility checks with affected limb.",
+  "source": "@site/docs/moderate-injury.md",
+  "sourceDirName": ".",
+  "slug": "/moderate-injury",
+  "permalink": "/docs/moderate-injury",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

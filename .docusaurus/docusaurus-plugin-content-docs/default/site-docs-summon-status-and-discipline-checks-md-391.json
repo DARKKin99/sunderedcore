@@ -1,0 +1,14 @@
+{
+  "id": "summon-status-and-discipline-checks",
+  "title": "Summon Status and Discipline Checks",
+  "description": "- Summons cannot make discipline checks but can suffer status effects (poison, fear, paralysis).",
+  "source": "@site/docs/summon-status-and-discipline-checks.md",
+  "sourceDirName": ".",
+  "slug": "/summon-status-and-discipline-checks",
+  "permalink": "/docs/summon-status-and-discipline-checks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

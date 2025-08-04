@@ -1,0 +1,14 @@
+{
+  "id": "damage-pool",
+  "title": "Damage Pool",
+  "description": "- When you spend SD for a damage action (including spending 2SD in place of a Core Action), SD are added to the damage pool.",
+  "source": "@site/docs/damage-pool.md",
+  "sourceDirName": ".",
+  "slug": "/damage-pool",
+  "permalink": "/docs/damage-pool",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

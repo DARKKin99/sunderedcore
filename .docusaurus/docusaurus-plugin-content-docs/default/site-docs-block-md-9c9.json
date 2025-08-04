@@ -1,0 +1,14 @@
+{
+  "id": "block",
+  "title": "Block",
+  "description": "You may block incoming damage by committing Source Dice (SD) (up to your proficiency, minimum 2SD), or by spending 20ft of unspent movement.",
+  "source": "@site/docs/block.md",
+  "sourceDirName": ".",
+  "slug": "/block",
+  "permalink": "/docs/block",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

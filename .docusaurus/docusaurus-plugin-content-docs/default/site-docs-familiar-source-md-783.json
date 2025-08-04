@@ -1,0 +1,14 @@
+{
+  "id": "familiar-source",
+  "title": "Familiar Source",
+  "description": "Each familiar provides Source according to its tier (functions just like a magical item’s Source).",
+  "source": "@site/docs/familiar-source.md",
+  "sourceDirName": ".",
+  "slug": "/familiar-source",
+  "permalink": "/docs/familiar-source",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

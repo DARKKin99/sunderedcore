@@ -1,0 +1,14 @@
+{
+  "id": "familiar-tiers",
+  "title": "Familiar Tiers",
+  "description": "Familiars are tiered like items:",
+  "source": "@site/docs/familiar-tiers.md",
+  "sourceDirName": ".",
+  "slug": "/familiar-tiers",
+  "permalink": "/docs/familiar-tiers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

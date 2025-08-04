@@ -1,0 +1,14 @@
+{
+  "id": "tarnished-renown",
+  "title": "Tarnished Renown",
+  "description": "If infamous, Renown still applies, but:",
+  "source": "@site/docs/tarnished-renown.md",
+  "sourceDirName": ".",
+  "slug": "/tarnished-renown",
+  "permalink": "/docs/tarnished-renown",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

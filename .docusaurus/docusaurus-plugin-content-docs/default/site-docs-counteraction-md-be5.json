@@ -1,0 +1,14 @@
+{
+  "id": "counteraction",
+  "title": "Counteraction",
+  "description": "A Counteraction is a reaction to sudden, untargeted threats—such as traps, falling objects, or magical surges.",
+  "source": "@site/docs/counteraction.md",
+  "sourceDirName": ".",
+  "slug": "/counteraction",
+  "permalink": "/docs/counteraction",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

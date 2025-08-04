@@ -1,0 +1,14 @@
+{
+  "id": "materials-and-magic",
+  "title": "Materials & Magic",
+  "description": "- Materials are determined by the GM based on item type and rarity.",
+  "source": "@site/docs/materials-and-magic.md",
+  "sourceDirName": ".",
+  "slug": "/materials-and-magic",
+  "permalink": "/docs/materials-and-magic",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

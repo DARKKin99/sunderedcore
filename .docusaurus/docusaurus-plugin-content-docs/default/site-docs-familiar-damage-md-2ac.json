@@ -1,0 +1,14 @@
+{
+  "id": "familiar-damage",
+  "title": "Familiar Damage",
+  "description": "- Familiar attack damage is calculated as base damage: spellcasting modifier + proficiency.",
+  "source": "@site/docs/familiar-damage.md",
+  "sourceDirName": ".",
+  "slug": "/familiar-damage",
+  "permalink": "/docs/familiar-damage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

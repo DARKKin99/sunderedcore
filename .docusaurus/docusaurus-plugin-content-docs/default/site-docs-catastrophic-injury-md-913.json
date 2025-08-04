@@ -1,0 +1,14 @@
+{
+  "id": "catastrophic-injury",
+  "title": "Catastrophic Injury (Cost: 20)",
+  "description": "- Crippling Wound: Permanent –1 to an ability score until healed.",
+  "source": "@site/docs/catastrophic-injury.md",
+  "sourceDirName": ".",
+  "slug": "/catastrophic-injury",
+  "permalink": "/docs/catastrophic-injury",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

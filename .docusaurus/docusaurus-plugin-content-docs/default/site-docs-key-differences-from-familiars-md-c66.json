@@ -1,0 +1,14 @@
+{
+  "id": "key-differences-from-familiars",
+  "title": "Key Differences from Familiars",
+  "description": "- Summoned creatures have independent HP",
+  "source": "@site/docs/key-differences-from-familiars.md",
+  "sourceDirName": ".",
+  "slug": "/key-differences-from-familiars",
+  "permalink": "/docs/key-differences-from-familiars",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

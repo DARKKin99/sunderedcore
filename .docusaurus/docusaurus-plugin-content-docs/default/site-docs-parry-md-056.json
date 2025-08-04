@@ -1,0 +1,14 @@
+{
+  "id": "parry",
+  "title": "Parry",
+  "description": "If you are wielding a melee weapon, you may Parry an incoming melee attack by committing Source Dice (SD) up to your proficiency, (minimum 1SD), or by spending unspent movement (increments of 10ft).",
+  "source": "@site/docs/parry.md",
+  "sourceDirName": ".",
+  "slug": "/parry",
+  "permalink": "/docs/parry",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

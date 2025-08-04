@@ -1,0 +1,14 @@
+{
+  "id": "class-talents-and-fighting-styles",
+  "title": "Class Talents and Fighting Styles",
+  "description": "- Start with 2 talents at level 1.",
+  "source": "@site/docs/class-talents-and-fighting-styles.md",
+  "sourceDirName": ".",
+  "slug": "/class-talents-and-fighting-styles",
+  "permalink": "/docs/class-talents-and-fighting-styles",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

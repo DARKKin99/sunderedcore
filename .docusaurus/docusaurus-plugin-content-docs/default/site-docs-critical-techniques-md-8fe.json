@@ -1,0 +1,14 @@
+{
+  "id": "critical-techniques",
+  "title": "Critical Techniques",
+  "description": "Critical techniques expand a character’s tactical combat efficacy, and count against total known techniques.",
+  "source": "@site/docs/critical-techniques.md",
+  "sourceDirName": ".",
+  "slug": "/critical-techniques",
+  "permalink": "/docs/critical-techniques",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

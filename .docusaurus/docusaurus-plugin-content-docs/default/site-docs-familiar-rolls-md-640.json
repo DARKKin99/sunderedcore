@@ -1,0 +1,14 @@
+{
+  "id": "familiar-rolls",
+  "title": "Familiar Rolls",
+  "description": "Familiars make all combat checks using the attuned character’s spellcasting ability, including:",
+  "source": "@site/docs/familiar-rolls.md",
+  "sourceDirName": ".",
+  "slug": "/familiar-rolls",
+  "permalink": "/docs/familiar-rolls",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ability-score-increase",
+  "title": "Ability Score Increase",
+  "description": "- At every even-numbered level (including 20), gain 1 ability point.",
+  "source": "@site/docs/ability-score-increase.md",
+  "sourceDirName": ".",
+  "slug": "/ability-score-increase",
+  "permalink": "/docs/ability-score-increase",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

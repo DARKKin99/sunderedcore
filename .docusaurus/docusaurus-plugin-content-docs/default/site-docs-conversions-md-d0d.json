@@ -1,0 +1,14 @@
+{
+  "id": "conversions",
+  "title": "Conversions",
+  "description": "You can trade between your core resources:",
+  "source": "@site/docs/conversions.md",
+  "sourceDirName": ".",
+  "slug": "/conversions",
+  "permalink": "/docs/conversions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

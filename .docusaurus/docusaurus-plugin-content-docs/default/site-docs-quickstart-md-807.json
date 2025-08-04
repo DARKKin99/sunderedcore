@@ -1,0 +1,23 @@
+{
+  "id": "quickstart",
+  "title": "How to Play Sundered",
+  "description": "Sundered is a system of agency, risk, and creativity. Every decision matters, and every resource is in your hands. Here’s how to jump in and play:",
+  "source": "@site/docs/quickstart.md",
+  "sourceDirName": ".",
+  "slug": "/quickstart",
+  "permalink": "/docs/quickstart",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/docs/welcome"
+  },
+  "next": {
+    "title": "Core Rules: Creating a Character",
+    "permalink": "/docs/creating-a-character"
+  }
+}

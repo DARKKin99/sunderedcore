@@ -1,0 +1,133 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "welcome",
+          "docs": [
+            {
+              "id": "ability-checks",
+              "path": "/docs/ability-checks",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "combat",
+              "path": "/docs/combat",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "counters",
+              "path": "/docs/counters",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "creating-a-character",
+              "path": "/docs/creating-a-character",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "creatures-and-creature-tiers",
+              "path": "/docs/creatures-and-creature-tiers",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "criticals",
+              "path": "/docs/criticals",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "familiars",
+              "path": "/docs/familiars",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "faq",
+              "path": "/docs/faq",
+              "sidebar": "licensingSidebar"
+            },
+            {
+              "id": "items-and-types",
+              "path": "/docs/items-and-types",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "momentum",
+              "path": "/docs/momentum",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "original-content",
+              "path": "/docs/original-content",
+              "sidebar": "licensingSidebar"
+            },
+            {
+              "id": "pets",
+              "path": "/docs/pets",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "quickstart",
+              "path": "/docs/quickstart",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "renown",
+              "path": "/docs/renown",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "replenishment",
+              "path": "/docs/replenishment"
+            },
+            {
+              "id": "SCL",
+              "path": "/docs/SCL",
+              "sidebar": "licensingSidebar"
+            },
+            {
+              "id": "size-limits-for-familiars-pets-and-summons",
+              "path": "/docs/size-limits-for-familiars-pets-and-summons",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "summoned-creatures",
+              "path": "/docs/summoned-creatures",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "techniques",
+              "path": "/docs/techniques",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "welcome",
+              "path": "/docs/welcome",
+              "sidebar": "sidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "sidebar": {
+              "link": {
+                "path": "/docs/welcome",
+                "label": "welcome"
+              }
+            },
+            "licensingSidebar": {
+              "link": {
+                "path": "/docs/SCL",
+                "label": "SCL"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

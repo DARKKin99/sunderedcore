@@ -1,0 +1,14 @@
+{
+  "id": "weapons",
+  "title": "Weapons",
+  "description": "- Weapons require minimum ability scores. If unmet, add the difference to the attack’s DC.",
+  "source": "@site/docs/weapons.md",
+  "sourceDirName": ".",
+  "slug": "/weapons",
+  "permalink": "/docs/weapons",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

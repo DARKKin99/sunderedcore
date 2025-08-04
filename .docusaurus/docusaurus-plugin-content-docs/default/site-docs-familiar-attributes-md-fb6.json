@@ -1,0 +1,14 @@
+{
+  "id": "familiar-attributes",
+  "title": "Familiar Attributes",
+  "description": "- Familiars follow item attribute rules and may have up to 9 total attributes.",
+  "source": "@site/docs/familiar-attributes.md",
+  "sourceDirName": ".",
+  "slug": "/familiar-attributes",
+  "permalink": "/docs/familiar-attributes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

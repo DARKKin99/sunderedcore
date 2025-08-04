@@ -1,0 +1,14 @@
+{
+  "id": "spell-critical-effects-table",
+  "title": "Spell Critical Effects Table",
+  "description": "Spend banked damage to inflict elemental or magical effects.",
+  "source": "@site/docs/spell-critical-effects-table.md",
+  "sourceDirName": ".",
+  "slug": "/spell-critical-effects-table",
+  "permalink": "/docs/spell-critical-effects-table",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

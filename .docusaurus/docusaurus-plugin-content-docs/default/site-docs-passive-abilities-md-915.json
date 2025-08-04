@@ -1,0 +1,14 @@
+{
+  "id": "passive-abilities",
+  "title": "Passive Abilities",
+  "description": "- If proficient in a discipline, your ability score is also your passive score for that discipline.",
+  "source": "@site/docs/passive-abilities.md",
+  "sourceDirName": ".",
+  "slug": "/passive-abilities",
+  "permalink": "/docs/passive-abilities",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

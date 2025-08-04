@@ -1,0 +1,14 @@
+{
+  "id": "source-return",
+  "title": "Source Return",
+  "description": "- Source provided to summons are locked to the summons and cannot be redistributed without desummoning.",
+  "source": "@site/docs/source-return.md",
+  "sourceDirName": ".",
+  "slug": "/source-return",
+  "permalink": "/docs/source-return",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

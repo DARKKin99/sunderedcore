@@ -1,0 +1,23 @@
+{
+  "id": "original-content",
+  "title": "original-content",
+  "description": "✅ Original Content (© Robert Alexander Beeson)",
+  "source": "@site/docs/original-content.md",
+  "sourceDirName": ".",
+  "slug": "/original-content",
+  "permalink": "/docs/original-content",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "licensingSidebar",
+  "previous": {
+    "title": "Creator License",
+    "permalink": "/docs/SCL"
+  },
+  "next": {
+    "title": "Sundered Creator License (SCL) – Quick FAQ",
+    "permalink": "/docs/faq"
+  }
+}

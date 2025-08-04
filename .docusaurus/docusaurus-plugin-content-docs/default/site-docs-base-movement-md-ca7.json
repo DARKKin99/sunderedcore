@@ -1,0 +1,14 @@
+{
+  "id": "base-movement",
+  "title": "Base Movement",
+  "description": "- All player characters occupy the size “Humanoid,” regardless of dimensions.",
+  "source": "@site/docs/base-movement.md",
+  "sourceDirName": ".",
+  "slug": "/base-movement",
+  "permalink": "/docs/base-movement",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

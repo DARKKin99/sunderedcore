@@ -1,0 +1,14 @@
+{
+  "id": "actions-and-control",
+  "title": "Actions and Control (Summons)",
+  "description": "Summoned creatures have a limited degree of autonomy:",
+  "source": "@site/docs/actions-and-control.md",
+  "sourceDirName": ".",
+  "slug": "/actions-and-control",
+  "permalink": "/docs/actions-and-control",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

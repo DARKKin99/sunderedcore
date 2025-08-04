@@ -1,0 +1,14 @@
+{
+  "id": "hold-action",
+  "title": "Hold Action",
+  "description": "You may choose to hold an action on your turn by specifying a clear trigger (e.g., “If a creature enters my range”).",
+  "source": "@site/docs/hold-action.md",
+  "sourceDirName": ".",
+  "slug": "/hold-action",
+  "permalink": "/docs/hold-action",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

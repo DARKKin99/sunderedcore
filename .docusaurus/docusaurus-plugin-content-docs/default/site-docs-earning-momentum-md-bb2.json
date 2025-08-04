@@ -1,0 +1,14 @@
+{
+  "id": "earning-momentum",
+  "title": "Earning Momentum",
+  "description": "Players and GM can earn Momentum by:",
+  "source": "@site/docs/earning-momentum.md",
+  "sourceDirName": ".",
+  "slug": "/earning-momentum",
+  "permalink": "/docs/earning-momentum",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

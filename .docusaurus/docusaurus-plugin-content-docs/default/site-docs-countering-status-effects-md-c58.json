@@ -1,0 +1,14 @@
+{
+  "id": "countering-status-effects",
+  "title": "Countering Status Effects",
+  "description": "To counter a status effect:",
+  "source": "@site/docs/countering-status-effects.md",
+  "sourceDirName": ".",
+  "slug": "/countering-status-effects",
+  "permalink": "/docs/countering-status-effects",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

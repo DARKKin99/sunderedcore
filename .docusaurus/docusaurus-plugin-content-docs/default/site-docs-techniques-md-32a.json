@@ -1,0 +1,23 @@
+{
+  "id": "techniques",
+  "title": "Core Rules: Magic and Techniques",
+  "description": "Techniques",
+  "source": "@site/docs/techniques.md",
+  "sourceDirName": ".",
+  "slug": "/techniques",
+  "permalink": "/docs/techniques",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Core Rules: Movement & Combat",
+    "permalink": "/docs/combat"
+  },
+  "next": {
+    "title": "Counters and Reactions",
+    "permalink": "/docs/counters"
+  }
+}

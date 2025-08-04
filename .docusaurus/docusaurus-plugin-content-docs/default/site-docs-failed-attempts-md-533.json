@@ -1,0 +1,14 @@
+{
+  "id": "failed-attempts",
+  "title": "Failed Attempts",
+  "description": "- Every attempt after the first becomes a Stressed Check, applying normal stress penalties.",
+  "source": "@site/docs/failed-attempts.md",
+  "sourceDirName": ".",
+  "slug": "/failed-attempts",
+  "permalink": "/docs/failed-attempts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

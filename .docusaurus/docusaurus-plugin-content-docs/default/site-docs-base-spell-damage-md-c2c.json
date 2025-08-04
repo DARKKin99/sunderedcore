@@ -1,0 +1,14 @@
+{
+  "id": "base-spell-damage",
+  "title": "Base Spell Damage",
+  "description": "When you cast a spell that deals damage, the Source Dice (SD) spent to cast the base spell are included in the damage pool.",
+  "source": "@site/docs/base-spell-damage.md",
+  "sourceDirName": ".",
+  "slug": "/base-spell-damage",
+  "permalink": "/docs/base-spell-damage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "damage",
+  "title": "Damage",
+  "description": "- On a successful melee, ranged, or Cantrip spell hit using a Core Action or movement:",
+  "source": "@site/docs/damage.md",
+  "sourceDirName": ".",
+  "slug": "/damage",
+  "permalink": "/docs/damage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

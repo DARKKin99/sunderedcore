@@ -1,0 +1,14 @@
+{
+  "id": "pet-tiers",
+  "title": "Pet Tiers",
+  "description": "Same as familiars: Common, Uncommon, Rare, Heroic, Legendary, Mythic.",
+  "source": "@site/docs/pet-tiers.md",
+  "sourceDirName": ".",
+  "slug": "/pet-tiers",
+  "permalink": "/docs/pet-tiers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

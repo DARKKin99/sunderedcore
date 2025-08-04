@@ -1,0 +1,14 @@
+{
+  "id": "ending-status-effects",
+  "title": "Ending Status Effects",
+  "description": "To attempt to end an escapable status effect (e.g., Grappled, Restrained, Charmed):",
+  "source": "@site/docs/ending-status-effects.md",
+  "sourceDirName": ".",
+  "slug": "/ending-status-effects",
+  "permalink": "/docs/ending-status-effects",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "id": "familiars",
+  "title": "Familiars",
+  "description": "A familiar is a magical (or mundane) companion bound to you through the Source.",
+  "source": "@site/docs/familiars.md",
+  "sourceDirName": ".",
+  "slug": "/familiars",
+  "permalink": "/docs/familiars",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Items and Magic",
+    "permalink": "/docs/items-and-types"
+  },
+  "next": {
+    "title": "Pets",
+    "permalink": "/docs/pets"
+  }
+}

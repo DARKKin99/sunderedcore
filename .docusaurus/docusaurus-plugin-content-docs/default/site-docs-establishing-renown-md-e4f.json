@@ -1,0 +1,14 @@
+{
+  "id": "establishing-renown",
+  "title": "Establishing Renown",
+  "description": "When entering a community where your deeds matter (heroic, infamous, or disruptive), the GM assigns a Renown pool.",
+  "source": "@site/docs/establishing-renown.md",
+  "sourceDirName": ".",
+  "slug": "/establishing-renown",
+  "permalink": "/docs/establishing-renown",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

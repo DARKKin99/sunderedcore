@@ -1,0 +1,14 @@
+{
+  "id": "item-customization",
+  "title": "Item Customization",
+  "description": "- Item attributes (damage type, effect, enhancement, conduit type, etc.) must be chosen at the time of crafting.",
+  "source": "@site/docs/item-customization.md",
+  "sourceDirName": ".",
+  "slug": "/item-customization",
+  "permalink": "/docs/item-customization",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

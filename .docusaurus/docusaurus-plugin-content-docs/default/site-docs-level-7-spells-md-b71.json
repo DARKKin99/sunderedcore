@@ -1,0 +1,14 @@
+{
+  "id": "level-7-spells",
+  "title": "Level 7 Spells",
+  "description": "* Casting Cost: Core Action +7SD, 9SD, 20ft movement + 7SD, or 90ft movement",
+  "source": "@site/docs/level-7-spells.md",
+  "sourceDirName": ".",
+  "slug": "/level-7-spells",
+  "permalink": "/docs/level-7-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

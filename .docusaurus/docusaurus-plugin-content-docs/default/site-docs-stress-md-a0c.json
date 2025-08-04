@@ -1,0 +1,14 @@
+{
+  "id": "stress",
+  "title": "Stress",
+  "description": "- Any normal task attempted during combat is considered stressed.",
+  "source": "@site/docs/stress.md",
+  "sourceDirName": ".",
+  "slug": "/stress",
+  "permalink": "/docs/stress",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "scaling-and-damage",
+  "title": "Scaling and Damage",
+  "description": "- Use summoner’s spellcasting ability for checks/damage.",
+  "source": "@site/docs/scaling-and-damage.md",
+  "sourceDirName": ".",
+  "slug": "/scaling-and-damage",
+  "permalink": "/docs/scaling-and-damage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

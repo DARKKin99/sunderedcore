@@ -1,0 +1,14 @@
+{
+  "id": "level-9-spells",
+  "title": "Level 9 Spells",
+  "description": "* Casting Cost: Core Action + 9SD, 11SD, 20ft movement + 9SD, or 110ft movement",
+  "source": "@site/docs/level-9-spells.md",
+  "sourceDirName": ".",
+  "slug": "/level-9-spells",
+  "permalink": "/docs/level-9-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

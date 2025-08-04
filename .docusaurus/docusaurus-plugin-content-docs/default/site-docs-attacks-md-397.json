@@ -1,0 +1,14 @@
+{
+  "id": "attacks",
+  "title": "Attacks",
+  "description": "- Melee: Use Strength or Agility.",
+  "source": "@site/docs/attacks.md",
+  "sourceDirName": ".",
+  "slug": "/attacks",
+  "permalink": "/docs/attacks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

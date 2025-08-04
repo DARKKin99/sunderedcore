@@ -1,0 +1,14 @@
+{
+  "id": "level-5-spells",
+  "title": "Level 5 Spells",
+  "description": "* Casting Cost: Core Action +5SD, 7SD, 20ft movement + 5SD, or 70ft movement",
+  "source": "@site/docs/level-5-spells.md",
+  "sourceDirName": ".",
+  "slug": "/level-5-spells",
+  "permalink": "/docs/level-5-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

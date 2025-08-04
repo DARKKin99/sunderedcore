@@ -1,0 +1,14 @@
+{
+  "id": "sd-cost-&-activation",
+  "title": "SD Cost & Activation",
+  "description": "- Each channeled ability has a specific SD cost, typically paid at the time of activation.",
+  "source": "@site/docs/sd-cost-&-activation.md",
+  "sourceDirName": ".",
+  "slug": "/sd-cost-&-activation",
+  "permalink": "/docs/sd-cost-&-activation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

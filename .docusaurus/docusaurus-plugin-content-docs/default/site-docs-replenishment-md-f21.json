@@ -1,0 +1,14 @@
+{
+  "id": "replenishment",
+  "title": "Replenishment",
+  "description": "Rest restores your Source Pool.",
+  "source": "@site/docs/replenishment.md",
+  "sourceDirName": ".",
+  "slug": "/replenishment",
+  "permalink": "/docs/replenishment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

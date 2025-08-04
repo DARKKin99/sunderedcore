@@ -1,0 +1,14 @@
+{
+  "id": "interparty-contests",
+  "title": "Interparty Contests",
+  "description": "- PvP combat is allowed, but do not use social checks to override other players’ actions.",
+  "source": "@site/docs/interparty-contests.md",
+  "sourceDirName": ".",
+  "slug": "/interparty-contests",
+  "permalink": "/docs/interparty-contests",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

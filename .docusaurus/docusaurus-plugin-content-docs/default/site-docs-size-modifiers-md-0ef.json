@@ -1,0 +1,14 @@
+{
+  "id": "size-modifiers",
+  "title": "Size Modifiers",
+  "description": "- Humanoid is the default size for player characters.",
+  "source": "@site/docs/size-modifiers.md",
+  "sourceDirName": ".",
+  "slug": "/size-modifiers",
+  "permalink": "/docs/size-modifiers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

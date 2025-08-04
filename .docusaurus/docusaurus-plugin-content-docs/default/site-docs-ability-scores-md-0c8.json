@@ -1,0 +1,24 @@
+{
+  "id": "ability-scores",
+  "title": "Ability Scores",
+  "description": "Ability Scores snapshot every creature's physical and mental characteristics.",
+  "source": "@site/docs/ability-scores.md",
+  "sourceDirName": ".",
+  "slug": "/ability-scores",
+  "permalink": "/docs/ability-scores",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ability-scores.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Creating a Character",
+    "permalink": "/docs/creating-a-character"
+  },
+  "next": {
+    "title": "Ability Scores and Modifiers",
+    "permalink": "/docs/ability-scores-and-modifiers"
+  }
+}

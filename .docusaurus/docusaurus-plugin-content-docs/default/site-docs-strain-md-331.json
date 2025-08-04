@@ -1,0 +1,14 @@
+{
+  "id": "strain",
+  "title": "Strain",
+  "description": "- If you exceed your proficiency cap for SD spent in a round, the check becomes a strained check.",
+  "source": "@site/docs/strain.md",
+  "sourceDirName": ".",
+  "slug": "/strain",
+  "permalink": "/docs/strain",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

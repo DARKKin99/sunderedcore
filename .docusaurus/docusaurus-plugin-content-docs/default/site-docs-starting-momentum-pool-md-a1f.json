@@ -1,0 +1,14 @@
+{
+  "id": "starting-momentum-pool",
+  "title": "Starting Momentum Pool",
+  "description": "- The pool begins with tokens equal to the number of people at the table (including the GM).",
+  "source": "@site/docs/starting-momentum-pool.md",
+  "sourceDirName": ".",
+  "slug": "/starting-momentum-pool",
+  "permalink": "/docs/starting-momentum-pool",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

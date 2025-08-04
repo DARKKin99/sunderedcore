@@ -1,0 +1,14 @@
+{
+  "id": "proficiency-cap",
+  "title": "Proficiency Cap",
+  "description": "- The Proficiency Cap (PC) is the maximum number of Source Dice (SD) you can spend on a single action (attack, counter, spell, etc.).",
+  "source": "@site/docs/proficiency-cap.md",
+  "sourceDirName": ".",
+  "slug": "/proficiency-cap",
+  "permalink": "/docs/proficiency-cap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dodge",
+  "title": "Dodge",
+  "description": "Dodge is a passive defense based on a character’s Agility.",
+  "source": "@site/docs/dodge.md",
+  "sourceDirName": ".",
+  "slug": "/dodge",
+  "permalink": "/docs/dodge",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "druid",
+  "title": "Druid",
+  "description": "The druid is able to shift into and out of forms at will. They know a number of shapes equal to their proficiency that they can shift into and out of without passing a check.",
+  "source": "@site/docs/druid.md",
+  "sourceDirName": ".",
+  "slug": "/druid",
+  "permalink": "/docs/druid",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

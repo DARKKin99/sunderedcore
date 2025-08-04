@@ -1,0 +1,14 @@
+{
+  "id": "concentration-spells",
+  "title": "Concentration Spells",
+  "description": "Some spells require concentration to maintain their effects. A concentration spell lasts a number of rounds equal to the SD spent when casting it.",
+  "source": "@site/docs/concentration-spells.md",
+  "sourceDirName": ".",
+  "slug": "/concentration-spells",
+  "permalink": "/docs/concentration-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

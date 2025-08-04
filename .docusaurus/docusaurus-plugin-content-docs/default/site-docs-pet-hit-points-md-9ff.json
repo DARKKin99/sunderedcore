@@ -1,0 +1,14 @@
+{
+  "id": "pet-hit-points",
+  "title": "Pet Hit Points",
+  "description": "Pet HP = your total hit points.",
+  "source": "@site/docs/pet-hit-points.md",
+  "sourceDirName": ".",
+  "slug": "/pet-hit-points",
+  "permalink": "/docs/pet-hit-points",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

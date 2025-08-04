@@ -1,0 +1,14 @@
+{
+  "id": "interaction-and-combat-movement",
+  "title": "Interaction & Combat Movement",
+  "description": "- 5ft to interact with an item (draw weapon, drink potion, etc.)",
+  "source": "@site/docs/interaction-and-combat-movement.md",
+  "sourceDirName": ".",
+  "slug": "/interaction-and-combat-movement",
+  "permalink": "/docs/interaction-and-combat-movement",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

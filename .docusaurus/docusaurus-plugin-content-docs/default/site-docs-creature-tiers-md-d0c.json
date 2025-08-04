@@ -1,0 +1,14 @@
+{
+  "id": "creature-tiers",
+  "title": "Creature Tiers",
+  "description": "Creatures range in potency from Common to Divine, just like items and player characters.",
+  "source": "@site/docs/creature-tiers.md",
+  "sourceDirName": ".",
+  "slug": "/creature-tiers",
+  "permalink": "/docs/creature-tiers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "core-rules-for-channeled-abilities",
+  "title": "Core Rules for Channeled Abilities",
+  "description": "- Do not count as spellcasting. Channeled abilities are distinct from spells and follow their own rules.",
+  "source": "@site/docs/core-rules-for-channeled-abilities.md",
+  "sourceDirName": ".",
+  "slug": "/core-rules-for-channeled-abilities",
+  "permalink": "/docs/core-rules-for-channeled-abilities",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

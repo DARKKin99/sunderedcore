@@ -1,0 +1,14 @@
+{
+  "id": "familiar-injury",
+  "title": "Familiar Injury",
+  "description": "- Defensive actions Block/Parry/Counterspell must be activated by you (Core Action/Equivalent)",
+  "source": "@site/docs/familiar-injury.md",
+  "sourceDirName": ".",
+  "slug": "/familiar-injury",
+  "permalink": "/docs/familiar-injury",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

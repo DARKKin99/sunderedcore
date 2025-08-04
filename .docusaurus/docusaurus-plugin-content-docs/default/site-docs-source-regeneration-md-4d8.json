@@ -1,0 +1,14 @@
+{
+  "id": "source-regeneration",
+  "title": "Source Regeneration",
+  "description": "Magical items restore their Source when not actively used:",
+  "source": "@site/docs/source-regeneration.md",
+  "sourceDirName": ".",
+  "slug": "/source-regeneration",
+  "permalink": "/docs/source-regeneration",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

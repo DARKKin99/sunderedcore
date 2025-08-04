@@ -1,0 +1,23 @@
+{
+  "id": "items-and-types",
+  "title": "Items and Magic",
+  "description": "Magical Items",
+  "source": "@site/docs/items-and-types.md",
+  "sourceDirName": ".",
+  "slug": "/items-and-types",
+  "permalink": "/docs/items-and-types",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Counters and Reactions",
+    "permalink": "/docs/counters"
+  },
+  "next": {
+    "title": "Familiars",
+    "permalink": "/docs/familiars"
+  }
+}

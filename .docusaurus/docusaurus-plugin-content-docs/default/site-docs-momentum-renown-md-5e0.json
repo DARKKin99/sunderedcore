@@ -1,0 +1,23 @@
+{
+  "id": "momentum-&-renown",
+  "title": "Momentum & Renown",
+  "description": "Momentum",
+  "source": "@site/docs/momentum-&-renown.md",
+  "sourceDirName": ".",
+  "slug": "/momentum-&-renown",
+  "permalink": "/docs/momentum-&-renown",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Creatures & Creature Tiers",
+    "permalink": "/docs/creatures-and-creature-tiers"
+  },
+  "next": {
+    "title": "Criticals & Effects",
+    "permalink": "/docs/criticals"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "core-actions",
+  "title": "Core Actions",
+  "description": "- Each turn, you get one free Core Action (CA).",
+  "source": "@site/docs/core-actions.md",
+  "sourceDirName": ".",
+  "slug": "/core-actions",
+  "permalink": "/docs/core-actions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "renewal",
+  "title": "Renewal",
+  "description": "Regain HP equal to your proficiency bonus + Constitution modifier per unstressed hour.",
+  "source": "@site/docs/renewal.md",
+  "sourceDirName": ".",
+  "slug": "/renewal",
+  "permalink": "/docs/renewal",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

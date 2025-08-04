@@ -1,0 +1,14 @@
+{
+  "id": "committed",
+  "title": "Committed",
+  "description": "- To attack or counter, you must “commit” SD before rolling the d20.",
+  "source": "@site/docs/committed.md",
+  "sourceDirName": ".",
+  "slug": "/committed",
+  "permalink": "/docs/committed",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

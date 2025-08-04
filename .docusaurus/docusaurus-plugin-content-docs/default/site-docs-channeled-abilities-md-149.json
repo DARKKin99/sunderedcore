@@ -1,0 +1,14 @@
+{
+  "id": "channeled-abilities",
+  "title": "Channeled Abilities",
+  "description": "Channeled Abilities draw from internal force, discipline, or spiritual focus. Unlike spells, they do not require verbal or somatic components, and they do not involve casting checks.",
+  "source": "@site/docs/channeled-abilities.md",
+  "sourceDirName": ".",
+  "slug": "/channeled-abilities",
+  "permalink": "/docs/channeled-abilities",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

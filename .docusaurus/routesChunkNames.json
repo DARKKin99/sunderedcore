@@ -1,0 +1,152 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-0d6": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-f6b": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-82e": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/ability-checks-9f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ability-checks-4-ec-524"
+  },
+  "/docs/combat-bd7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-combate-44-ba4"
+  },
+  "/docs/counters-550": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-counters-2-e-6-00b"
+  },
+  "/docs/creating-a-character-c48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-creating-a-character-83-f-eac"
+  },
+  "/docs/creatures-and-creature-tiers-b3c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-creatures-and-creature-tiersea-6-a80"
+  },
+  "/docs/criticals-82f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-criticals-919-74c"
+  },
+  "/docs/familiars-315": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-familiars-106-fcb"
+  },
+  "/docs/faq-c67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-faq-048-db5"
+  },
+  "/docs/items-and-types-708": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-items-and-typesfee-85c"
+  },
+  "/docs/momentum-540": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-momentum-224-da7"
+  },
+  "/docs/original-content-ad0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-original-contentaf-3-a98"
+  },
+  "/docs/pets-bea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-petse-6-e-061"
+  },
+  "/docs/quickstart-b8e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quickstart-807-6cd"
+  },
+  "/docs/renown-dc0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-renown-124-cae"
+  },
+  "/docs/replenishment-faa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-replenishmentf-21-05c"
+  },
+  "/docs/SCL-4d1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-scl-023-3c0"
+  },
+  "/docs/size-limits-for-familiars-pets-and-summons-e6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-size-limits-for-familiars-pets-and-summons-9-b-1-7ea"
+  },
+  "/docs/summoned-creatures-8d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-summoned-creatures-528-89d"
+  },
+  "/docs/techniques-c65": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-techniques-32-a-04e"
+  },
+  "/docs/welcome-12a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-welcomeebf-790"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

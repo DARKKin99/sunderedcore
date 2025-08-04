@@ -1,0 +1,14 @@
+{
+  "id": "disciplines",
+  "title": "Disciplines",
+  "description": "- When you choose a class, select two disciplines to be proficient in.",
+  "source": "@site/docs/disciplines.md",
+  "sourceDirName": ".",
+  "slug": "/disciplines",
+  "permalink": "/docs/disciplines",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

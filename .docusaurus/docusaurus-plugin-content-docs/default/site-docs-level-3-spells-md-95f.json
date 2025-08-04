@@ -1,0 +1,14 @@
+{
+  "id": "level-3-spells",
+  "title": "Level 3 Spells",
+  "description": "* Casting Cost: Core Action +3SD, 5SD, 30ft movement + 3SD, or 50ft movement",
+  "source": "@site/docs/level-3-spells.md",
+  "sourceDirName": ".",
+  "slug": "/level-3-spells",
+  "permalink": "/docs/level-3-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

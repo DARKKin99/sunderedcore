@@ -1,0 +1,14 @@
+{
+  "id": "healing-criticals",
+  "title": "Healing Criticals",
+  "description": "Critical injuries can be healed by spells or abilities that detail status removal or injury reparation.",
+  "source": "@site/docs/healing-criticals.md",
+  "sourceDirName": ".",
+  "slug": "/healing-criticals",
+  "permalink": "/docs/healing-criticals",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

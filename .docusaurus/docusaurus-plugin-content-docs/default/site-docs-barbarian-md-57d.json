@@ -1,0 +1,14 @@
+{
+  "id": "barbarian",
+  "title": "Barbarian",
+  "description": "Spend 2 SD (or equivalent) to enter Rage at any time and gain access to barbarian abilities.",
+  "source": "@site/docs/barbarian.md",
+  "sourceDirName": ".",
+  "slug": "/barbarian",
+  "permalink": "/docs/barbarian",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

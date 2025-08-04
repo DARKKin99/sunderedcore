@@ -1,0 +1,14 @@
+{
+  "id": "contests",
+  "title": "Contests",
+  "description": "When two creatures oppose each other directly, each makes an ability check.",
+  "source": "@site/docs/contests.md",
+  "sourceDirName": ".",
+  "slug": "/contests",
+  "permalink": "/docs/contests",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

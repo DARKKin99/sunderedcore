@@ -1,0 +1,14 @@
+{
+  "id": "monk",
+  "title": "Monk",
+  "description": "---",
+  "source": "@site/docs/monk.md",
+  "sourceDirName": ".",
+  "slug": "/monk",
+  "permalink": "/docs/monk",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

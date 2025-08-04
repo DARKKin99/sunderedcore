@@ -1,0 +1,14 @@
+{
+  "id": "melee-movement-scaling",
+  "title": "Melee Movement Scaling",
+  "description": "Press the Attack",
+  "source": "@site/docs/melee-movement-scaling.md",
+  "sourceDirName": ".",
+  "slug": "/melee-movement-scaling",
+  "permalink": "/docs/melee-movement-scaling",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

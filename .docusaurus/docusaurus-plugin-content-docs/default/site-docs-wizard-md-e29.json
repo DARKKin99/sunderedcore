@@ -1,0 +1,14 @@
+{
+  "id": "wizard",
+  "title": "Wizard",
+  "description": "---",
+  "source": "@site/docs/wizard.md",
+  "sourceDirName": ".",
+  "slug": "/wizard",
+  "permalink": "/docs/wizard",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

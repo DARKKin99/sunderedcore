@@ -1,0 +1,14 @@
+{
+  "id": "losing-momentum",
+  "title": "Losing Momentum",
+  "description": "A party loses a momentum token when:",
+  "source": "@site/docs/losing-momentum.md",
+  "sourceDirName": ".",
+  "slug": "/losing-momentum",
+  "permalink": "/docs/losing-momentum",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

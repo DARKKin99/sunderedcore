@@ -1,0 +1,14 @@
+{
+  "id": "how-learning-works",
+  "title": "How Learning Works",
+  "description": "To learn a spell, the player must:",
+  "source": "@site/docs/how-learning-works.md",
+  "sourceDirName": ".",
+  "slug": "/how-learning-works",
+  "permalink": "/docs/how-learning-works",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

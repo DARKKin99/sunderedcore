@@ -1,0 +1,14 @@
+{
+  "id": "pet-actions",
+  "title": "Pet Actions",
+  "description": "Like familiars, pets require the character to spend a Core Action: Order, or equivalent conversion (such as 2 SD or 10ft movement + 1 SD) to direct them.",
+  "source": "@site/docs/pet-actions.md",
+  "sourceDirName": ".",
+  "slug": "/pet-actions",
+  "permalink": "/docs/pet-actions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "creature-source",
+  "title": "Creature Source",
+  "description": "All creatures possess a personal Source, which scales by level just like player characters.",
+  "source": "@site/docs/creature-source.md",
+  "sourceDirName": ".",
+  "slug": "/creature-source",
+  "permalink": "/docs/creature-source",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

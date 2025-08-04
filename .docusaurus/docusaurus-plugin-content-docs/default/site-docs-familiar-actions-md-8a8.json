@@ -1,0 +1,14 @@
+{
+  "id": "familiar-actions",
+  "title": "Familiar Actions",
+  "description": "- Familiars require you to spend a Core Action: Order or equivalent (2 SD, 20ft movement, etc.) to act.",
+  "source": "@site/docs/familiar-actions.md",
+  "sourceDirName": ".",
+  "slug": "/familiar-actions",
+  "permalink": "/docs/familiar-actions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

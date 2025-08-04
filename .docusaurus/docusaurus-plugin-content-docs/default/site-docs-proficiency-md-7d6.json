@@ -1,0 +1,14 @@
+{
+  "id": "proficiency",
+  "title": "Proficiency",
+  "description": "- Characters start at proficiency +2.",
+  "source": "@site/docs/proficiency.md",
+  "sourceDirName": ".",
+  "slug": "/proficiency",
+  "permalink": "/docs/proficiency",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

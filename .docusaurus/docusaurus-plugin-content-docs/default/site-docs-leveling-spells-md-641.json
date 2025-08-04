@@ -1,0 +1,14 @@
+{
+  "id": "leveling-spells",
+  "title": "Leveling Spells",
+  "description": "- Spells do NOT need to be leveled. Scaling and counterspell rules apply.",
+  "source": "@site/docs/leveling-spells.md",
+  "sourceDirName": ".",
+  "slug": "/leveling-spells",
+  "permalink": "/docs/leveling-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

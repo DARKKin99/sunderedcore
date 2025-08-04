@@ -1,0 +1,14 @@
+{
+  "id": "summoning-and-desummoning",
+  "title": "Summoning and Desummoning",
+  "description": "- Familiars are bound to items (common to mythic).",
+  "source": "@site/docs/summoning-and-desummoning.md",
+  "sourceDirName": ".",
+  "slug": "/summoning-and-desummoning",
+  "permalink": "/docs/summoning-and-desummoning",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

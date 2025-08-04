@@ -1,0 +1,14 @@
+{
+  "id": "source-strain",
+  "title": "Source Strain",
+  "description": "- If your Source is empty (including attuned items), your movement is halved due to fatigue.",
+  "source": "@site/docs/source-strain.md",
+  "sourceDirName": ".",
+  "slug": "/source-strain",
+  "permalink": "/docs/source-strain",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

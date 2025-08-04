@@ -1,0 +1,14 @@
+{
+  "id": "source-dice",
+  "title": "Source Dice",
+  "description": "All characters begin with a Source Pool of dice, used to fuel special abilities, extra attacks, and more.",
+  "source": "@site/docs/source-dice.md",
+  "sourceDirName": ".",
+  "slug": "/source-dice",
+  "permalink": "/docs/source-dice",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

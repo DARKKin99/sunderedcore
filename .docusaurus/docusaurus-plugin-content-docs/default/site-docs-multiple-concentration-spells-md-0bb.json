@@ -1,0 +1,14 @@
+{
+  "id": "multiple-concentration-spells",
+  "title": "Multiple Concentration Spells",
+  "description": "A player may concentrate on multiple spells simultaneously, but doing so comes at a cost:",
+  "source": "@site/docs/multiple-concentration-spells.md",
+  "sourceDirName": ".",
+  "slug": "/multiple-concentration-spells",
+  "permalink": "/docs/multiple-concentration-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

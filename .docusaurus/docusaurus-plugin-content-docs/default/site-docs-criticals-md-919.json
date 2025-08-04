@@ -1,0 +1,23 @@
+{
+  "id": "criticals",
+  "title": "Criticals & Effects",
+  "description": "Natural Crit",
+  "source": "@site/docs/criticals.md",
+  "sourceDirName": ".",
+  "slug": "/criticals",
+  "permalink": "/docs/criticals",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Renown",
+    "permalink": "/docs/renown"
+  },
+  "next": {
+    "title": "Creator License",
+    "permalink": "/docs/SCL"
+  }
+}

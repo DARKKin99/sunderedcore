@@ -1,0 +1,14 @@
+{
+  "id": "casting-requirements",
+  "title": "Casting Requirements",
+  "description": "- Casting a spell requires either verbal or somatic components unless you have a spell focus or feature that removes this requirement.",
+  "source": "@site/docs/casting-requirements.md",
+  "sourceDirName": ".",
+  "slug": "/casting-requirements",
+  "permalink": "/docs/casting-requirements",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

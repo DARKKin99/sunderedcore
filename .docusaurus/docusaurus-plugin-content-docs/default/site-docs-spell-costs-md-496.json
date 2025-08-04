@@ -1,0 +1,14 @@
+{
+  "id": "spell-costs",
+  "title": "Spell Costs",
+  "description": "- Spells cost either a Core Action, Source, Movement, or a mix.",
+  "source": "@site/docs/spell-costs.md",
+  "sourceDirName": ".",
+  "slug": "/spell-costs",
+  "permalink": "/docs/spell-costs",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

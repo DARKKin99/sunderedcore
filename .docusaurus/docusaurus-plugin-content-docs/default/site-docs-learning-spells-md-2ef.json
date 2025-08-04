@@ -1,0 +1,14 @@
+{
+  "id": "learning-spells",
+  "title": "Learning Spells",
+  "description": "All spells gained after character creation must be learned, regardless of class.",
+  "source": "@site/docs/learning-spells.md",
+  "sourceDirName": ".",
+  "slug": "/learning-spells",
+  "permalink": "/docs/learning-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

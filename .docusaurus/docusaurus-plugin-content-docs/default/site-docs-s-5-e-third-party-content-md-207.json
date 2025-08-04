@@ -1,0 +1,27 @@
+{
+  "id": "s5e-third-party-content",
+  "title": "Third-Party Content (Sundered 5e)",
+  "description": "This document outlines all third-party content referenced or adapted in the Sundered system and ensures proper attribution and legal compliance.",
+  "source": "@site/docs/s5e-third-party-content.md",
+  "sourceDirName": ".",
+  "slug": "/s5e-third-party-content",
+  "permalink": "/docs/s5e-third-party-content",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "s5e-third-party-content",
+    "title": "Third-Party Content (Sundered 5e)",
+    "sidebar_label": "5e/Pathfinder Legal Notices"
+  },
+  "sidebar": "licensingSidebar",
+  "previous": {
+    "title": "Creator License",
+    "permalink": "/docs/SCL"
+  },
+  "next": {
+    "title": "Sundered Creator License (SCL) – Quick FAQ",
+    "permalink": "/docs/faq"
+  }
+}

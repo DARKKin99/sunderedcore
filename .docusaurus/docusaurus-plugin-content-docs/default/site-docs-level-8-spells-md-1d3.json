@@ -1,0 +1,14 @@
+{
+  "id": "level-8-spells",
+  "title": "Level 8 Spells",
+  "description": "* Casting Cost: Core Action + 8SD, 10SD, 20ft movement + 8SD, or 100ft movement",
+  "source": "@site/docs/level-8-spells.md",
+  "sourceDirName": ".",
+  "slug": "/level-8-spells",
+  "permalink": "/docs/level-8-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

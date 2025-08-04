@@ -1,0 +1,14 @@
+{
+  "id": "summoning-difficulty",
+  "title": "Summoning Difficulty",
+  "description": "Single creature:",
+  "source": "@site/docs/summoning-difficulty.md",
+  "sourceDirName": ".",
+  "slug": "/summoning-difficulty",
+  "permalink": "/docs/summoning-difficulty",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

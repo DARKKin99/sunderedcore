@@ -1,0 +1,14 @@
+{
+  "id": "summoning-source-commitment",
+  "title": "Summoning Limits and Source Commitment",
+  "description": "- Max active summons = your total SD.",
+  "source": "@site/docs/summoning-source-commitment.md",
+  "sourceDirName": ".",
+  "slug": "/summoning-source-commitment",
+  "permalink": "/docs/summoning-source-commitment",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pets",
+  "title": "Pets",
+  "description": "A pet is a loyal animal or mount that fights, travels, and explores by your side.",
+  "source": "@site/docs/pets.md",
+  "sourceDirName": ".",
+  "slug": "/pets",
+  "permalink": "/docs/pets",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Familiars",
+    "permalink": "/docs/familiars"
+  },
+  "next": {
+    "title": "Summoned Creatures",
+    "permalink": "/docs/summoned-creatures"
+  }
+}

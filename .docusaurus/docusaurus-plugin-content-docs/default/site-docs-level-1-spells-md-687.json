@@ -1,0 +1,14 @@
+{
+  "id": "level-1-spells",
+  "title": "Level 1 Spells",
+  "description": "* Casting Cost: Core Action +1SD, 3SD, 10ft movement + 2SD, or 30ft movement",
+  "source": "@site/docs/level-1-spells.md",
+  "sourceDirName": ".",
+  "slug": "/level-1-spells",
+  "permalink": "/docs/level-1-spells",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

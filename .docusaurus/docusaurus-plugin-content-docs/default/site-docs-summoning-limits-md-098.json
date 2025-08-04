@@ -1,0 +1,14 @@
+{
+  "id": "summoning-limits",
+  "title": "Summoning Limits",
+  "description": "- You cannot exceed your max SD in active summons.",
+  "source": "@site/docs/summoning-limits.md",
+  "sourceDirName": ".",
+  "slug": "/summoning-limits",
+  "permalink": "/docs/summoning-limits",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

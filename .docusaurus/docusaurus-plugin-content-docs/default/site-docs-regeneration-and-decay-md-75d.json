@@ -1,0 +1,14 @@
+{
+  "id": "regeneration-and-decay",
+  "title": "Regeneration and Decay",
+  "description": "- Regeneration: The pool refreshes each dawn while the party remains in the region.",
+  "source": "@site/docs/regeneration-and-decay.md",
+  "sourceDirName": ".",
+  "slug": "/regeneration-and-decay",
+  "permalink": "/docs/regeneration-and-decay",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

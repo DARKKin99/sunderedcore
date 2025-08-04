@@ -1,0 +1,14 @@
+{
+  "id": "hit-points",
+  "title": "Hit Points",
+  "description": "- Before level 17:",
+  "source": "@site/docs/hit-points.md",
+  "sourceDirName": ".",
+  "slug": "/hit-points",
+  "permalink": "/docs/hit-points",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

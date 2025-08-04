@@ -1,0 +1,23 @@
+{
+  "id": "ability-checks",
+  "title": "Core Rules: Ability Checks, Proficiency, and Targeting",
+  "description": "Ability Checks",
+  "source": "@site/docs/ability-checks.md",
+  "sourceDirName": ".",
+  "slug": "/ability-checks",
+  "permalink": "/docs/ability-checks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Core Rules: Creating a Character",
+    "permalink": "/docs/creating-a-character"
+  },
+  "next": {
+    "title": "Core Rules: Movement & Combat",
+    "permalink": "/docs/combat"
+  }
+}

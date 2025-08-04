@@ -1,0 +1,14 @@
+{
+  "id": "counter-attack",
+  "title": "Counter Attack",
+  "description": "When a creature within 5ft of you attempts to leave your melee range, you may make a melee attack against them as a reaction.",
+  "source": "@site/docs/counter-attack.md",
+  "sourceDirName": ".",
+  "slug": "/counter-attack",
+  "permalink": "/docs/counter-attack",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

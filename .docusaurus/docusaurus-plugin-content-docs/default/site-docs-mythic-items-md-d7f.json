@@ -1,0 +1,14 @@
+{
+  "id": "mythic-items",
+  "title": "Mythic Items",
+  "description": "Mythic items are divine constructs, infused with overwhelming power.",
+  "source": "@site/docs/mythic-items.md",
+  "sourceDirName": ".",
+  "slug": "/mythic-items",
+  "permalink": "/docs/mythic-items",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "counterspell",
+  "title": "Counterspell",
+  "description": "You may spend SD to counter successful spells.",
+  "source": "@site/docs/counterspell.md",
+  "sourceDirName": ".",
+  "slug": "/counterspell",
+  "permalink": "/docs/counterspell",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

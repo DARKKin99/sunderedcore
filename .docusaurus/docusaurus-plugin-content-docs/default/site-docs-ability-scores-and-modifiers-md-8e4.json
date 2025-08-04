@@ -1,0 +1,14 @@
+{
+  "id": "ability-scores-and-modifiers",
+  "title": "Ability Scores and Modifiers",
+  "description": "Ability Scores represent your base capacity. These scores reflect life experience.",
+  "source": "@site/docs/ability-scores-and-modifiers.md",
+  "sourceDirName": ".",
+  "slug": "/ability-scores-and-modifiers",
+  "permalink": "/docs/ability-scores-and-modifiers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

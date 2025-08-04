@@ -1,0 +1,14 @@
+{
+  "id": "spending-renown",
+  "title": "Spending Renown",
+  "description": "Players can spend Renown tokens on social checks, but only when interacting with individuals or systems influenced by their reputation in that area. This includes:",
+  "source": "@site/docs/spending-renown.md",
+  "sourceDirName": ".",
+  "slug": "/spending-renown",
+  "permalink": "/docs/spending-renown",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

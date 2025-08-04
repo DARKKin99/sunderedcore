@@ -1,0 +1,14 @@
+{
+  "id": "designing-a-technique",
+  "title": "Designing a Technique",
+  "description": "To craft a technique, define:",
+  "source": "@site/docs/designing-a-technique.md",
+  "sourceDirName": ".",
+  "slug": "/designing-a-technique",
+  "permalink": "/docs/designing-a-technique",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

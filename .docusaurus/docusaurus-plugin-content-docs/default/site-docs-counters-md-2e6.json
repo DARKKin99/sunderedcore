@@ -1,0 +1,23 @@
+{
+  "id": "counters",
+  "title": "Counters and Reactions",
+  "description": "A counter is an action taken in response to a successful attack or effect—whether targeting yourself or an ally.",
+  "source": "@site/docs/counters.md",
+  "sourceDirName": ".",
+  "slug": "/counters",
+  "permalink": "/docs/counters",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Core Rules: Magic and Techniques",
+    "permalink": "/docs/techniques"
+  },
+  "next": {
+    "title": "Items and Magic",
+    "permalink": "/docs/items-and-types"
+  }
+}

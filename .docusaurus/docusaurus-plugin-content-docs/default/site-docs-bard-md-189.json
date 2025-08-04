@@ -1,0 +1,14 @@
+{
+  "id": "bard",
+  "title": "Bard",
+  "description": "Sharp tongue",
+  "source": "@site/docs/bard.md",
+  "sourceDirName": ".",
+  "slug": "/bard",
+  "permalink": "/docs/bard",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

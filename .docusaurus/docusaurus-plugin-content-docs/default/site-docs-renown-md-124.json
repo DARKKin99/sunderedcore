@@ -1,0 +1,23 @@
+{
+  "id": "renown",
+  "title": "Renown",
+  "description": "Renown measures your party’s reputation, notoriety, or heroic status in a particular region. It’s a localized advantage, regenerating daily while the party remains present and active.",
+  "source": "@site/docs/renown.md",
+  "sourceDirName": ".",
+  "slug": "/renown",
+  "permalink": "/docs/renown",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "sidebar",
+  "previous": {
+    "title": "Momentum & Renown",
+    "permalink": "/docs/momentum"
+  },
+  "next": {
+    "title": "Criticals & Effects",
+    "permalink": "/docs/criticals"
+  }
+}

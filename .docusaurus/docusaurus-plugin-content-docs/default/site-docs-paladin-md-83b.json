@@ -1,0 +1,14 @@
+{
+  "id": "paladin",
+  "title": "Paladin",
+  "description": "Paladins are driven by unwavering ideals. Some go so far as to swear sacred oaths, devoting themselves to a god, a principle, or a cosmic (dis)order that mirrors their understanding of existence.",
+  "source": "@site/docs/paladin.md",
+  "sourceDirName": ".",
+  "slug": "/paladin",
+  "permalink": "/docs/paladin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

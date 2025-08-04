@@ -1,0 +1,14 @@
+{
+  "id": "spell-resolution",
+  "title": "Spell Resolution",
+  "description": "- You must commit SD before rolling for spellcasting.",
+  "source": "@site/docs/spell-resolution.md",
+  "sourceDirName": ".",
+  "slug": "/spell-resolution",
+  "permalink": "/docs/spell-resolution",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

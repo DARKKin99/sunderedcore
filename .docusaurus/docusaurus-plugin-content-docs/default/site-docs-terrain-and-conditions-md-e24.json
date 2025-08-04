@@ -1,0 +1,14 @@
+{
+  "id": "terrain-and-conditions",
+  "title": "Terrain & Conditions",
+  "description": "- Difficult terrain: halves movement across affected spaces.",
+  "source": "@site/docs/terrain-and-conditions.md",
+  "sourceDirName": ".",
+  "slug": "/terrain-and-conditions",
+  "permalink": "/docs/terrain-and-conditions",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

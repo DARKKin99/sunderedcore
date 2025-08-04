@@ -1,0 +1,14 @@
+{
+  "id": "critical-counters",
+  "title": "Critical Counters",
+  "description": "A natural 20 counter applies similar effects to a natural crit strike.",
+  "source": "@site/docs/critical-counters.md",
+  "sourceDirName": ".",
+  "slug": "/critical-counters",
+  "permalink": "/docs/critical-counters",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,14 @@
+{
+  "id": "targeted-vs-untargeted",
+  "title": "Targeted vs. Untargeted Disciplines",
+  "description": "- “T” (Targeted): Only activates against another creature (e.g., Persuasion).",
+  "source": "@site/docs/targeted-vs-untargeted.md",
+  "sourceDirName": ".",
+  "slug": "/targeted-vs-untargeted",
+  "permalink": "/docs/targeted-vs-untargeted",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

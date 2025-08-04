@@ -1,0 +1,14 @@
+{
+  "id": "spell-movement-scaling",
+  "title": "Spell Movement Scaling",
+  "description": "Arcane Advantage",
+  "source": "@site/docs/spell-movement-scaling.md",
+  "sourceDirName": ".",
+  "slug": "/spell-movement-scaling",
+  "permalink": "/docs/spell-movement-scaling",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

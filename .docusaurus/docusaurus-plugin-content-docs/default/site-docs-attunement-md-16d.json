@@ -1,0 +1,14 @@
+{
+  "id": "attunement",
+  "title": "Attunement",
+  "description": "To harness a magical item’s Source, a player must attune to it:",
+  "source": "@site/docs/attunement.md",
+  "sourceDirName": ".",
+  "slug": "/attunement",
+  "permalink": "/docs/attunement",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

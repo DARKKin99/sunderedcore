@@ -1,0 +1,14 @@
+{
+  "id": "warlock",
+  "title": "Warlock",
+  "description": "---",
+  "source": "@site/docs/warlock.md",
+  "sourceDirName": ".",
+  "slug": "/warlock",
+  "permalink": "/docs/warlock",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

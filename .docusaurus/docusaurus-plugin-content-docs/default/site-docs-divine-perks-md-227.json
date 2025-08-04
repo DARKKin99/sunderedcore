@@ -1,0 +1,14 @@
+{
+  "id": "divine-perks",
+  "title": "Divine Perks",
+  "description": "- Gods begin every encounter with full Momentum.",
+  "source": "@site/docs/divine-perks.md",
+  "sourceDirName": ".",
+  "slug": "/divine-perks",
+  "permalink": "/docs/divine-perks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

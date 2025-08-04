@@ -1,0 +1,14 @@
+{
+  "id": "combat-and-initiative",
+  "title": "Combat & Initiative",
+  "description": "When combat begins, roll initiative (Wisdom Check):",
+  "source": "@site/docs/combat-and-initiative.md",
+  "sourceDirName": ".",
+  "slug": "/combat-and-initiative",
+  "permalink": "/docs/combat-and-initiative",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
