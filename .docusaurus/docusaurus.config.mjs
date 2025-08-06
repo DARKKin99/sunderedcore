@@ -354,6 +354,14 @@ export default {
       "maxHeadingLevel": 3
     }
   },
+  "plugins": [
+    [
+      "C:\\Users\\rbsn2\\Documents\\core.sunderedsystems.com\\node_modules\\@easyops-cn\\docusaurus-search-local\\dist\\server\\server\\index.js",
+      {
+        "hashed": true
+      }
+    ]
+  ],
   "baseUrlIssueBanner": true,
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
@@ -361,7 +369,6 @@ export default {
     "static"
   ],
   "customFields": {},
-  "plugins": [],
   "themes": [],
   "scripts": [],
   "headTags": [],
