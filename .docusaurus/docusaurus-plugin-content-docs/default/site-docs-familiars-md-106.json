@@ -10,7 +10,11 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "id": "familiars",
+    "title": "Familiars",
+    "slug": "/familiars"
+  },
   "sidebar": "sidebar",
   "previous": {
     "title": "Items and Magic",

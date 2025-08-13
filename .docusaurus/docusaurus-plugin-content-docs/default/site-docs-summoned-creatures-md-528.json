@@ -10,7 +10,12 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "id": "summoned-creatures",
+    "title": "Summoned Creatures",
+    "slug": "/summoned-creatures",
+    "sidebar_label": "Summoned Creatures"
+  },
   "sidebar": "sidebar",
   "previous": {
     "title": "Pets",

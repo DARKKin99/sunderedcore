@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "welcome",
+          "mainDocId": "start-here",
           "docs": [
             {
               "id": "ability-checks",
@@ -71,8 +71,13 @@
               "sidebar": "sidebar"
             },
             {
-              "id": "quickstart",
-              "path": "/docs/quickstart",
+              "id": "quickstart-interactive",
+              "path": "/docs/quickstart-interactive",
+              "sidebar": "sidebar"
+            },
+            {
+              "id": "quickstart-printable",
+              "path": "/docs/quickstart-printable",
               "sidebar": "sidebar"
             },
             {
@@ -95,6 +100,11 @@
               "sidebar": "sidebar"
             },
             {
+              "id": "start-here",
+              "path": "/docs/start-here",
+              "sidebar": "sidebar"
+            },
+            {
               "id": "summoned-creatures",
               "path": "/docs/summoned-creatures",
               "sidebar": "sidebar"
@@ -103,19 +113,14 @@
               "id": "techniques",
               "path": "/docs/techniques",
               "sidebar": "sidebar"
-            },
-            {
-              "id": "welcome",
-              "path": "/docs/welcome",
-              "sidebar": "sidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "sidebar": {
               "link": {
-                "path": "/docs/welcome",
-                "label": "welcome"
+                "path": "/docs/start-here",
+                "label": "start-here"
               }
             },
             "licensingSidebar": {

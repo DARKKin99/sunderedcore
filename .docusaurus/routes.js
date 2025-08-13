@@ -49,15 +49,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '0d6'),
+    component: ComponentCreator('/docs', '50c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'f6b'),
+        component: ComponentCreator('/docs', '466'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '82e'),
+            component: ComponentCreator('/docs', 'bef'),
             routes: [
               {
                 path: '/docs/ability-checks',
@@ -132,8 +132,14 @@ export default [
                 sidebar: "sidebar"
               },
               {
-                path: '/docs/quickstart',
-                component: ComponentCreator('/docs/quickstart', 'b8e'),
+                path: '/docs/quickstart-interactive',
+                component: ComponentCreator('/docs/quickstart-interactive', 'fd1'),
+                exact: true,
+                sidebar: "sidebar"
+              },
+              {
+                path: '/docs/quickstart-printable',
+                component: ComponentCreator('/docs/quickstart-printable', '036'),
                 exact: true,
                 sidebar: "sidebar"
               },
@@ -161,6 +167,12 @@ export default [
                 sidebar: "sidebar"
               },
               {
+                path: '/docs/start-here',
+                component: ComponentCreator('/docs/start-here', '352'),
+                exact: true,
+                sidebar: "sidebar"
+              },
+              {
                 path: '/docs/summoned-creatures',
                 component: ComponentCreator('/docs/summoned-creatures', '8d9'),
                 exact: true,
@@ -169,12 +181,6 @@ export default [
               {
                 path: '/docs/techniques',
                 component: ComponentCreator('/docs/techniques', 'c65'),
-                exact: true,
-                sidebar: "sidebar"
-              },
-              {
-                path: '/docs/welcome',
-                component: ComponentCreator('/docs/welcome', '12a'),
                 exact: true,
                 sidebar: "sidebar"
               }

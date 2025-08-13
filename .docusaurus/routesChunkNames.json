@@ -55,17 +55,17 @@
       "plugin": "plugin---search-138-688"
     }
   },
-  "/docs-0d6": {
+  "/docs-50c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-f6b": {
+  "/docs-466": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-82e": {
+  "/docs-bef": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/ability-checks-9f5": {
@@ -116,9 +116,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-petse-6-e-061"
   },
-  "/docs/quickstart-b8e": {
+  "/docs/quickstart-interactive-fd1": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-quickstart-807-6cd"
+    "content": "content---docs-quickstart-interactivec-18-e3e"
+  },
+  "/docs/quickstart-printable-036": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-quickstart-printableca-8-4d6"
   },
   "/docs/renown-dc0": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -136,6 +140,10 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-size-limits-for-familiars-pets-and-summons-9-b-1-7ea"
   },
+  "/docs/start-here-352": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-start-here-2-e-6-5c7"
+  },
   "/docs/summoned-creatures-8d9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-summoned-creatures-528-89d"
@@ -143,10 +151,6 @@
   "/docs/techniques-c65": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-techniques-32-a-04e"
-  },
-  "/docs/welcome-12a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-welcomeebf-790"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

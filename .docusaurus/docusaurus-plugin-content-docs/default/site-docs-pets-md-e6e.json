@@ -10,7 +10,12 @@
   "unlisted": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "frontMatter": {
+    "id": "pets",
+    "title": "Pets",
+    "slug": "/pets",
+    "sidebar_label": "Pets"
+  },
   "sidebar": "sidebar",
   "previous": {
     "title": "Familiars",
